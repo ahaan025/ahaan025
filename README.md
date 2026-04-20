@@ -1,8 +1,5 @@
 ## Hi 👋, I'm Ahaan Mehta
 
-<!--
-**ahaan025/ahaan025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am currently an undergraduate student at Brown University studying Applied Math, Computer Science & Cognitive Science.
 
 📫 Feel free to connect at ahaan_mehta@brown.edu
@@ -16,4 +13,3 @@ I am currently an undergraduate student at Brown University studying Applied Mat
 👯 I’m also interested in startups and entrepreneurship. As a Venture Scout @ Boardy, I explore early-stage ideas, founders, and emerging tech.
 
 I enjoy building in AI and deep tech, and I’m always curious about what makes products scale and ideas stick. Open to collaborating on ambitious projects 🚀
--->
