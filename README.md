@@ -3,7 +3,9 @@
 I am currently an undergraduate student at Brown University studying Applied Math, Computer Science & Cognitive Science.
 
 📫 Feel free to connect at ahaan_mehta@brown.edu
+
 ❔ My interests range from ML/DL, Product Engineering, Computational Neuroscience, and more.
+
 🤔 Most of my repos are private, so contact me to see them!
 
 🧠 In summer 2026, I am going to be an AI Research Fellow @ R42 Group. I will focus on building, testing, and validating prototypes that demonstrate how living neurons can contribute to computational tasks and how their capabilities compare with traditional silicon-based chipsets. My goal is to explore hybrid bio-digital architectures that could expand the future of AI computing beyond conventional hardware.
