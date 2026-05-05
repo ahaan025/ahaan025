@@ -4,7 +4,7 @@ I am currently an undergraduate student at Brown University studying Applied Mat
 
 📫 Feel free to connect at ahaan_mehta@brown.edu
 
-❔ My interests range from ML/DL, Product Engineering, Computational Neuroscience, and more.
+❔ My interests range from ML/DL, Product Engineering, Consumer AI, and more!
 
 🤔 Most of my repos are private, so contact me to see them!
 
